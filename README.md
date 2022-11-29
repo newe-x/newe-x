@@ -1,6 +1,6 @@
 <div align="left
 <a href="https://github.com/PedroEwen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -10,4 +10,5 @@
 </div>
 
   ##
+  <p><i> A prática leva a perfeição :seedling: <i><p>
   
