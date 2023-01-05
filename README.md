@@ -1,6 +1,6 @@
 <div align="left
 <a href="https://github.com/PedroEwen">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
   <a href ="mailto:pedrohenriquewen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
