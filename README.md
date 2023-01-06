@@ -1,7 +1,7 @@
 ##
 <div align="center">
- <a href="https://github.com/PedroEwen"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=true&theme=radicale&include_all_commits=true&count_private=true"/>
-  
+ <a href="https://github.com/PedroEwen"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=true&theme=radicale&include_all_commits=true&count_private=true"/><
+<img height = "180em" src ="  https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEwen&layout=compact/>
 </div>
   <a href ="mailto:pedrohenriquewen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-3388aa243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
