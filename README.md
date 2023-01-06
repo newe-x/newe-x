@@ -1,7 +1,7 @@
 ##
 <div align = center>
-<a href="https://github.com/PedroEwen"><img height= "160em" src ="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=false&theme=dark"/>
-<img height= "160em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEwen&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/PedroEwen"><img width= "49%" src ="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=false&theme=dark"/>
+<img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEwen&layout=compact&langs_count=8&theme=dark"/>
 </div>
 <div>
   <a href ="mailto:pedrohenriquewen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,5 +11,3 @@
 
 ##
   <p><i> A prática leva a perfeição :seedling: <i><p>
-
-   
