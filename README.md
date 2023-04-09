@@ -1,6 +1,6 @@
 ##
 <div align = center>
-<a href="https://github.com/PedroEwen"><img width= "49%" src ="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=false&theme=dark"/>
+<a href="https://github.com/PedroEwen"><img width= "48%" src ="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=false&theme=dark"/>
 <img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEwen&layout=compact&langs_count=8&theme=dark"/>
 </div>
 <div>
