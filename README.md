@@ -1,7 +1,7 @@
 
 ### Opa, meu nome é Pedro 😃
   
-#### Sou um estudante de graduação em Análise e Desenvolvimento de Sistemas, com um forte foco no desenvolvimento back-end utilizando Python. Tenho interesse em várias vertentes da tecnologia e me considero uma pessoa curiosa.
+#### Sou estudante de graduação em Análise e Desenvolvimento de Sistemas, com um forte foco no desenvolvimento back-end utilizando Python. Tenho interesse em várias vertentes da tecnologia e me considero uma pessoa curiosa.
   
 ##
 <div align = center>
