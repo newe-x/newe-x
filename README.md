@@ -1,5 +1,7 @@
-<h5>Opa, Eu sou Pedro. 😃
-Sou um graduando em Análise e Desenvolvimento de Sistemas com um forte foco em desenvolvimento back-end utilizando Python. Atualmente, tenho a incrível oportunidade de ser um Jovem Aprendiz no departamento de TI da Mobi-PE.
+<h5>Opa, Eu sou Pedro. 😃<\h5>
+  
+<h4>Sou um graduando em Análise e Desenvolvimento de Sistemas com um forte foco em desenvolvimento back-end utilizando Python. Atualmente, tenho a incrível oportunidade de ser um Jovem Aprendiz no departamento de TI da Mobi-PE.<\h4>
+  
 ##
 <div align = center>
 <a href="https://github.com/PedroEwen"><img width= "49%" src ="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=false&theme=midnight-purple"/>
