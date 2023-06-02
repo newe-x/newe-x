@@ -1,6 +1,6 @@
-<h5>Opa, Eu sou Pedro. 😃<\h5>
+<h6>Opa, Eu sou Pedro 😃
   
-<h4>Sou um graduando em Análise e Desenvolvimento de Sistemas com um forte foco em desenvolvimento back-end utilizando Python. Atualmente, tenho a incrível oportunidade de ser um Jovem Aprendiz no departamento de TI da Mobi-PE.<\h4>
+<h4>Sou um graduando em Análise e Desenvolvimento de Sistemas com um forte foco em desenvolvimento back-end utilizando Python. Atualmente, tenho a incrível oportunidade de ser um Jovem Aprendiz no departamento de TI da Mobi-PE.
   
 ##
 <div align = center>
