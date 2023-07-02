@@ -1,8 +1,8 @@
 
 ### Opa, meu nome é Pedro 😃
   
-#### Sou estudante de graduação em Análise e Desenvolvimento de Sistemas, com um forte foco no desenvolvimento back-end utilizando Python. Tenho interesse em várias vertentes da tecnologia e me considero uma pessoa curiosa.
-##
+#### - Técnologo em Análise e Desenvolvimento de Sistemas
+#### - Ti
 <div align = center>
 <a href="https://github.com/PedroEwen">
 <img height= "180em" src ="https://github-readme-stats.vercel.app/api?username=PedroEwen&show_icons=false&theme=midnight-purple"/>
