@@ -17,7 +17,7 @@
   <img align="center" alt="Tux" height="" width="32" src="https://img.icons8.com/color/48/linux--v2.png"/>
   <img align="center" alt="Bash" height="" width="32" src="https://img.icons8.com/color/48/bash.png"/>
   <img align="center" alt="Python" height="" width="32" src="https://img.icons8.com/color/48/python--v1.png">
-  <img align="center" alt="Javascript" height="" width="32" src="https://icons8.com/icon/PXTY4q2Sq2lG/javascript">
+  <img align="center" alt="Javascript" height="" width="32" src="https://img.icons8.com/fluency/48/javascript.png">
   <!-- -->
 </div>
 
