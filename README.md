@@ -22,5 +22,5 @@
 <br>
 </div>
 <br>
-<i>Ikigai:seedling:
+<i>Ikigai :seedling:
   
