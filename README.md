@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroEwen&theme=Tokyonight" alt="mystreak"/>
 </div>
   
-# Olá, Eu sou Pedro!
+# Hi, i am Pedro! <img width="30" height="30" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 - Tecnólogo em Análise e Desenvolvimento de Sistemas
 - Estagiário em Suporte/Cibersegurança
 <hr>
