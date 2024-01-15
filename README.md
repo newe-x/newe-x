@@ -3,7 +3,7 @@
 </div>
   
 # Hi, i am Pedro! <img width="30" height="30" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-- Analistas de Sistemas
+- Analistas de sistemas
 - Estagiário em Infraestrutura/Cibersegurança
 <hr>
 
