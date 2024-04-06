@@ -12,4 +12,4 @@
 </div>
 <hr>
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/PedroEwen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img src="https://img.shields.io/badge/Kali_Linux-236ad3?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/newe-x?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img src="https://img.shields.io/badge/Kali_Linux-236ad3?style=for-the-badge&logo=kali-linux&logoColor=white"/>
