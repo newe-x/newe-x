@@ -5,9 +5,9 @@
 <hr>
 <div style= "display: inline_block"> 
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
-<img width="48" height="48" src="https://img.icons8.com/badges/48/python.png" alt="python"/>
-<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/FFFFFF/javascript.png" alt="javascript"/>
+<img width="38" height="38" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
+<img width="38" height="38" src="https://img.icons8.com/badges/48/python.png" alt="python"/>
+<img width="38" height="38" src="https://img.icons8.com/ios-filled/50/FFFFFF/javascript.png" alt="javascript"/>
 
 
 </div>
