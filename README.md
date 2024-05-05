@@ -1,7 +1,7 @@
 
   
 # Hi, i am Pedro! <img width="30" height="30" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-- Analista de Segurança da Informação Jr.
+- Information Security Analyst.
 <hr>
 <div style= "display: inline_block"> 
 <img width="45" height="45" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
