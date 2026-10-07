@@ -1,4 +1,9 @@
-<p align="center"><img src="./banner.svg" alt="newe-x banner" width="100%"></p>
+<p align="center"><img src="./Banner.png" alt="newe-x banner" width="100%"></p>
 
-[![Follow GitHub](https://img.shields.io/badge/Follow-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/newe-x)
-[![Medium](https://img.shields.io/badge/Medium-0d1117?style=flat&logo=medium&logoColor=white)](https://newe-x.medium.com)
+<div align="center" style="background-color: #000000; padding: 12px;">
+    <img width="24" height="24" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub">&nbsp;&nbsp;
+    <img width="24" height="24" src="https://img.icons8.com/ios/50/FFFFFF/debian.png" alt="Debian">&nbsp;&nbsp;
+    <img width="24" height="24" src="https://img.icons8.com/material-outlined/24/FFFFFF/amazon-web-services.png" alt="AWS">
+</div>
+
+
